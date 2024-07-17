@@ -2,11 +2,11 @@
 [en]
 languageName = "English"
 languagedirection = "ltr"
-title = "English"
+title = "Λlex's "
 weight = 1
 
-[fr]
-languageName = "French"
-languagedirection = "ltr"
-title = "Français"
-weight = 2
+#[fr]
+#languageName = "French"
+#languagedirection = "ltr"
+#title = "HelveticAlex - Français"
+#weight = 2
