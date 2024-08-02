@@ -22,7 +22,7 @@ links:
     website: https://discordlookup.com/user/1156278612060807198
     image: https://cdn-icons-png.flaticon.com/512/2504/2504896.png
   - title: Spotify
-    description: I'm not exceptionally active, but I've posted a few playlists :)
+    description: Every musical taste is unique; come and discover mine!
     website: https://open.spotify.com/user/31abww67ft3kyllx6wltwe32t6ay
     image: https://cdn-icons-png.flaticon.com/512/2504/2504940.png
 menu:
