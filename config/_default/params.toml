@@ -28,7 +28,7 @@ readingTime = true
 
 [article.license]
 enabled = true
-default = "Licensed under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+default = "Licensed under [**CC0 1.0 Universal**](https://creativecommons.org/publicdomain/zero/1.0/)"
 
 ## Widgets
 [[widgets.homepage]]
@@ -76,7 +76,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]

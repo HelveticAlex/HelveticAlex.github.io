@@ -5,6 +5,10 @@ links:
     description: Contact me directly via email.
     website: mailto:contact@helveticalex.ch
     image: https://cdn-icons-png.flaticon.com/512/2504/2504914.png
+  - title: Spotify
+    description: Every musical taste is unique; come and discover mine!
+    website: https://open.spotify.com/user/31abww67ft3kyllx6wltwe32t6ay
+    image: https://cdn-icons-png.flaticon.com/512/2504/2504940.png
   - title: Youtube
     description: To discover my playlists and the music I listen to, check it out here!
     website: https://www.youtube.com/@HelveticAlex
@@ -21,10 +25,6 @@ links:
     description: Feel free to write to me directly!
     website: https://discordlookup.com/user/1156278612060807198
     image: https://cdn-icons-png.flaticon.com/512/2504/2504896.png
-  - title: Spotify
-    description: Every musical taste is unique; come and discover mine!
-    website: https://open.spotify.com/user/31abww67ft3kyllx6wltwe32t6ay
-    image: https://cdn-icons-png.flaticon.com/512/2504/2504940.png
 menu:
     main: 
         weight: 4

@@ -11,4 +11,4 @@ Take a moment to browse through the various sections of the site. From detailed 
 
 Feel free to explore and don't hesitate to reach out if you have any questions or suggestions. I'm excited to share this journey with you and look forward to your feedback.
 
-Happy exploring!
+Happy exploring !
