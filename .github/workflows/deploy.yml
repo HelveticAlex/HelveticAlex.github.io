@@ -5,7 +5,7 @@ on:
         branches: [master]
     pull_request:
         branches: [master]
-    workflow_dispatch: # Ajout pour déclenchement manuel
+    workflow_dispatch: # Pour déclenchement manuel
 
 jobs:
     build:
