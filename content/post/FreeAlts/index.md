@@ -1,6 +1,6 @@
 ---
 title: 💸 Free Alternatives for Streaming, Downloading & More !
-description: Unlock Premium Features Without the Cost ; A Deep Dive into xManager, YouTube ReVanced, and More from FMHY !
+description: Unlock Premium Features Without the Cost ; A Deep Dive into xManager, YouTube ReVanced, and Much More !
 slug: BrowserOptimization
 image: cover.png
 weight: 2
@@ -64,6 +64,20 @@ Blocks all banner, video and audio ads in the client. Hiding podcasts, episodes 
 Does the same thing, but for your (Android) phone!
 
 [![Click on the logo if you want to install xManager!](xManager.png)](https://www.xmanagerapp.com/)
+
+## Netflix, Crunchyroll, ADN, Disney+ and many more... packed in a single app, for free! 📺
+
+Imagine having all your favorite streaming services like Netflix, Crunchyroll, Disney+, and many more, centralized in one app, and available for free. That's exactly what you get when you combine Stremio with the Torrentio add-on !
+
+[**Stremio**](https://www.stremio.com/) is an open-source media center that allows you to watch movies, TV shows, live TV, and more from a variety of sources, all in one place. It's designed to be user-friendly and supports a wide range of add-ons that expand its capabilities.
+
+[**Torrentio**](https://torrentio.strem.fun/configure) is an add-on for Stremio that pulls streaming links from torrent sites. When you search for a show or movie in Stremio, Torrentio aggregates links from torrent sources and allows you to stream content directly within the app. This means you can access a vast library of content, including titles available on popular platforms like Netflix, Amazon Prime, Crunchyroll, Disney+, and more, all without having to subscribe to these services.
+
+#### How to Set It Up :
+- Install Stremio: Download and install Stremio on your device from Stremio's official website (or search it up on Google Play).
+- Add Torrentio: Once Stremio is installed, register an account in there, and then add the Torrentio add-on by clicking "install" on the [Torrentio link](https://torrentio.strem.fun/configure).
+- Start Streaming: After setting up Torrentio, you can start searching for movies or TV shows. Stremio will display streaming options from Torrentio alongside other sources.
+
 
 ## Others
 
